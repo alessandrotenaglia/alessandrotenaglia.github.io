@@ -28,7 +28,6 @@ abstract: A novel distributed control architecture for unmanned aircraft system 
   and in a realistic environment, showing the effectiveness of the proposed architecture
   in terms of reliability, scalability, and flexibility.
 
-links:
 url_pdf: ''
 
 featured: true
