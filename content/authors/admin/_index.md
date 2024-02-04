@@ -67,6 +67,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/alessandrotenaglia?tab=repositories
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0000-0003-0512-1111
   - icon: instagram
     icon_pack: hb
     link: https://www.instagram.com/alte.x86/
