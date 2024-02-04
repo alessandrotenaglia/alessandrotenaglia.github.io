@@ -21,9 +21,5 @@ abstract: This paper presents two innovative approaches to design symbolic contr
 
 tags: []
 
-links:
-- name: PDF
-  url: paper.pdf
-
 featured: true
 ---
