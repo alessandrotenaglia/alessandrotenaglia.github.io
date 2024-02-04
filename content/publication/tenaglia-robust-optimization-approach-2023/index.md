@@ -30,5 +30,5 @@ links:
 - name: PDF
   url: paper.pdf
 
-featured: true
+featured: false
 ---

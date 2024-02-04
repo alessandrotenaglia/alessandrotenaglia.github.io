@@ -21,5 +21,5 @@ abstract: This paper presents two innovative approaches to design symbolic contr
 
 tags: []
 
-featured: true
+featured: false
 ---

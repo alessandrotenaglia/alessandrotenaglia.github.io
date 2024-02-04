@@ -29,5 +29,5 @@ abstract: This paper addresses the problem of sensor fusion in the context of vi
 
 tags: []
 
-featured: true
+featured: false
 ---

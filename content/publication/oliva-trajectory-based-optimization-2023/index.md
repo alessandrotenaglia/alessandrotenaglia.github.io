@@ -22,5 +22,5 @@ abstract: This paper presents a study on developing a hybrid 3D position observe
 
 tags: []
 
-featured: true
+featured: false
 ---
