@@ -71,7 +71,7 @@ social:
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0003-0512-1111
   - icon: instagram
-    icon_pack: hb
+    icon_pack: fab
     link: https://www.instagram.com/alte.x86/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
