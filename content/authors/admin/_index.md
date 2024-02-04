@@ -1,90 +1,51 @@
 ---
 # Display name
-title: 吳健雄
+title: Alessandro Tenaglia
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alessandro
+last_name: Tenaglia
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Automation and Control Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Rome Tor Vergata
+    url: https://web.uniroma2.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
+  - Unmanned systems
+  - Magnetic control of tokamak plasmas
+  - Control allocation
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    - course: PhD in Computer Science, Control, and Geoinformation
+      institution: University of Rome Tor Vergata
+      year: today
+    - course: MSc in Automation Engineering
+      institution: University of Rome Tor Vergata
+      year: 2021
+    - course: BSc in Computer Science
+      institution: University of Rome Tor Vergata
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,22 +54,19 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:alessandro.tenaglia@uniroma2.it'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alessandrotenaglia
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=CMwuqK0AAAAJ&hl
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/alessandrotenaglia?tab=repositories
+  - icon: instagram
+    icon_pack: hb
+    link: https://www.instagram.com/alte.x86/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +78,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alessandro Tenaglia was born in Rome, Italy, in 1997. He received a Bachelor's Degree in Computer Engineering and a Master's Degree in Automation Engineering from the university of Rome Tor Vergata, both summa cum laude, in 2019 and 2021, respectively. He is currently pursuing a Ph.D. Program in Computer Science, Control, and Geoinformation at the university of Rome Tor Vergata.
+His research interests include control allocation techniques, magnetic control of tokamak plasmas, and autonomous navigation algorithms for unmanned systems.
+Since 2021, he has actively contributed to the university of Rome Tor Vergata team, participating in the Leonardo Drone Contest, leading to the victory of various awards.
+His research experience was enhanced during a one-year tenure as a visiting Ph.D. student at the Swiss Plasma Center, École Polytechnique Fédérale de Lausanne (EPFL) in Lausanne, Switzerland.
 {style="text-align: justify;"}
