@@ -1,6 +1,5 @@
 ---
-title: A Novel Distributed Architecture for Unmanned Aircraft Systems Based on Robot
-  Operating System 2
+title: A Novel Distributed Architecture for Unmanned Aircraft Systems Based on Robot Operating System 2
 authors:
 - Lorenzo Bianchi
 - Daniele Carnevale
@@ -8,7 +7,7 @@ authors:
 - Roberto Masocco
 - Simone Mattogno
 - Fabrizio Romanelli
-- Alessandro Tenaglia
+- admin
 date: '2023-01-01'
 publishDate: '2024-02-04T15:03:09.287947Z'
 publication_types:
@@ -28,4 +27,9 @@ abstract: A novel distributed control architecture for unmanned aircraft system 
   experimental results have been collected during tests carried out both in the laboratory
   and in a realistic environment, showing the effectiveness of the proposed architecture
   in terms of reliability, scalability, and flexibility.
+
+links:
+url_pdf: ''
+
+featured: true
 ---
