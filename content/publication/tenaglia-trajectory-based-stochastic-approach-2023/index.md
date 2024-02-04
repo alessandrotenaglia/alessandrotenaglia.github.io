@@ -18,4 +18,12 @@ abstract: This paper presents two innovative approaches to design symbolic contr
   Transition System to model the behavior of a symbolic model. This procedure allows
   for handling the system's stochastic behavior and considers uncertainties. The effectiveness
   of the novel approaches presented is demonstrated through numerical results.
+
+tags: []
+
+links:
+- name: PDF
+  url: paper.pdf
+
+featured: true
 ---

@@ -19,4 +19,8 @@ abstract: This paper presents a study on developing a hybrid 3D position observe
   and a Linear Matrix Inequality (LMI) method. We prove that, under the proposed solutions,
   the boundedness of the estimation error is guaranteed. The performance of the observer
   is evaluated and compared to a standard EKF using comprehensive Monte Carlo simulations.
+
+tags: []
+
+featured: true
 ---

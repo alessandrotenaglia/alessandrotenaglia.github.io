@@ -7,7 +7,7 @@ authors:
 - Simone Mattogno
 - Federico Oliva
 - Fabrizio Romanelli
-- Alessandro Tenaglia
+- admin
 date: '2023-05-01'
 publishDate: '2024-02-04T15:03:09.278140Z'
 publication_types:
@@ -26,4 +26,12 @@ abstract: This paper addresses the problem of sensor fusion in the context of vi
   allowing for a simple implementation that relies on little information. A test setup
   that represents a realistic configuration of an autonomous robot is described, and
   the experimental results are presented and discussed.
+
+tags: []
+
+links:
+- name: PDF
+  url: paper.pdf
+
+featured: true
 ---

@@ -23,4 +23,12 @@ abstract: This paper addresses the problem of dynamic input allocation in the pr
   problem aiming to reduce the output mismatch induced by the allocation scheme while
   maintaining steady-state optimality. As the numerical simulations highlight, this
   method applies to linear and nonlinear allocation problems.
+
+tags: []
+
+links:
+- name: PDF
+  url: paper.pdf
+
+featured: true
 ---
