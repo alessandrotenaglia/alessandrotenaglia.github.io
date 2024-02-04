@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: Visiting Ph.D. Student at Swiss Plasma Center
-      institution: Ecole Polytechnique Fédérale de Lausanne
+      institution: Ecole Polytechnique Fédérale de Lausanne (EPFL)
       year: today
     - course: Ph.D. Student in Computer Science, Control, and Geoinformation
       institution: University of Rome Tor Vergata
