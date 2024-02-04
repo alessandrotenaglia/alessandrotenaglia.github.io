@@ -30,7 +30,8 @@ abstract: A novel distributed control architecture for unmanned aircraft system 
 
 tags: []
 
-url_pdf: 'paper.pdf'
+url_pdf: ''
+url_slides: ''
 
 featured: true
 ---
