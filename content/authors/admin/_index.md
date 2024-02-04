@@ -37,7 +37,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science, Control, and Geoinformation
+    - course: Visiting Ph.D. Student at Swiss Plasma Center
+      institution: cole Polytechnique Fédérale de Lausanne
+      year: today
+    - course: Ph.D. Student in Computer Science, Control, and Geoinformation
       institution: University of Rome Tor Vergata
       year: today
     - course: MSc in Automation Engineering
@@ -81,5 +84,5 @@ highlight_name: true
 Alessandro Tenaglia was born in Rome, Italy, in 1997. He received a Bachelor's Degree in Computer Engineering and a Master's Degree in Automation Engineering from the university of Rome Tor Vergata, both summa cum laude, in 2019 and 2021, respectively. He is currently pursuing a Ph.D. Program in Computer Science, Control, and Geoinformation at the university of Rome Tor Vergata.
 His research interests include control allocation techniques, magnetic control of tokamak plasmas, and autonomous navigation algorithms for unmanned systems.
 Since 2021, he has actively contributed to the university of Rome Tor Vergata team, participating in the Leonardo Drone Contest, leading to the victory of various awards.
-His research experience was enhanced during a one-year tenure as a visiting Ph.D. student at the Swiss Plasma Center, École Polytechnique Fédérale de Lausanne (EPFL) in Lausanne, Switzerland.
+Currently, he is pursuing a one-year visiting period at the Swiss Plasma Center, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland.
 {style="text-align: justify;"}
