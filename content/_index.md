@@ -68,7 +68,9 @@ sections:
           date_end: ''
           description: Automation and control engineering
         - title: Visiting Ph.D. Student
-          company: Swiss Plasma Center, Ecole Polytechnique Fédérale de Lausanne (EPFL)
+          company: >
+            Swiss Plasma Center (SPC)
+            Ecole Polytechnique Fédérale de Lausanne (EPFL)
           company_url: 'https://www.epfl.ch/research/domains/swiss-plasma-center/'
           company_logo: epfl
           location: Switzerland
