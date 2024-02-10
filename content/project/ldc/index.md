@@ -1,5 +1,5 @@
 ---
-title: Leonardo Drone Contest 2022
+title: Leonardo Drone Contest
 summary: An open innovation challenge by Leonardo
 tags:
   - Artificial Intelligence
@@ -14,5 +14,3 @@ image:
   caption: ''
   focal_point: Smart
 ---
-
-The Leonardo Drone Contest is an Open Innovation challenge designed and launched by Leonardo in collaboration with six Italian universities, to encourage the development of Artificial Intelligence applied to Unmanned Systems. The aim of the project is to encourage the creation of an innovation ‘ecosystem’ that involves and brings together the capabilities of large companies, universities, small and medium enterprises, and national spin-offs and start-ups.
