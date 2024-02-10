@@ -7,12 +7,12 @@ event_url: https://cdc2023.ieeecss.org/
 location: Singapore
 
 summary: Paper presentation
-abstract: 'This paper addresses the problem of dynamic input allocation in the presence of plant uncertainties. The current state of the art shows how to design an Allocator as the cascade of an Optimizer and an Annihilator to achieve steady-state input optimality and output invisibility simultaneously. This work proposes a novel algorithm based on polynomial factorization to design a dynamic Annihilator. The critical aspect of this approach lies in the assumption of the perfect plant knowledge, making the Annihilator not robust to uncertainties. A robustification process is introduced by optimizing its design parameters. This approach is formulated as a model-matching problem aiming to reduce the output mismatch induced by the allocation scheme while maintaining steady-state optimality. As the numerical simulations highlight, this method applies to linear and nonlinear allocation problems.'
+abstract: 'This paper presents two innovative approaches to design symbolic controllers for dynamical systems. The first novelty involves a new trajectory-based strategy for defining the states of a symbolic model, which provides a more accurate representation of the system's dynamics than the traditional grid-based technique. The second novelty concerns using a Bounded-parameter Markov Decision Process rather than a Finite Transition System to model the behavior of a symbolic model. This procedure allows for handling the system's stochastic behavior and considers uncertainties. The effectiveness of the novel approaches presented is demonstrated through numerical results.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-09'
-date_end: '2023-07-14'
+date: '2023-12-13'
+date_end: '2023-12-15'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
