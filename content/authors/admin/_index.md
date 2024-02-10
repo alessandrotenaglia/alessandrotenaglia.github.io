@@ -29,10 +29,10 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Unmanned systems
-  - Control of tokamak plasmas
-  - Control allocation
   - Artificial Intelligence
+  - Control allocation
+  - Control of tokamak plasmas
+  - Unmanned systems
 
 # Education to show in About widget
 education:
