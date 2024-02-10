@@ -26,7 +26,7 @@ featured: true
 
 image:
   caption: ''
-  focal_point: Left
+  focal_point: Right
 
 # links:
 #   - icon: twitter
