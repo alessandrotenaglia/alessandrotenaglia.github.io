@@ -105,16 +105,6 @@ sections:
       columns: '2'
       view: citation
 
-  ##### Gallery #####
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="ldc" >}}
-    design:
-      columns: '1'
-
   ##### Talks #####
   - block: collection
     id: talks
@@ -126,6 +116,16 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  ##### Gallery #####
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="ldc" >}}
+    design:
+      columns: '1'
 
   ##### Skills #####
   # - block: skills
