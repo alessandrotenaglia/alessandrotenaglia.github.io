@@ -1,12 +1,12 @@
 ---
 title: A Trajectory Based Optimization Approach for Hybrid Observer Design
 authors:
-- F. Oliva
-- S. Mattogno
-- A. Tenaglia
-- R. Masocco
-- F. Martinelli
-- D. Carnevale
+- Federico Oliva
+- Simone Mattogno
+- admin
+- Roberto Masocco
+- Francesco Martinelli
+- Daniele Carnevale
 date: '2023-12-01'
 publishDate: '2024-02-04T15:03:09.295167Z'
 publication_types:

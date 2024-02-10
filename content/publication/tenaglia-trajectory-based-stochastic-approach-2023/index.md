@@ -1,7 +1,7 @@
 ---
 title: A Trajectory-Based Stochastic Approach to Symbolic Control
 authors:
-- Alessandro Tenaglia
+- admin
 - Corrado Possieri
 - Daniele Carnevale
 date: '2023-12-01'

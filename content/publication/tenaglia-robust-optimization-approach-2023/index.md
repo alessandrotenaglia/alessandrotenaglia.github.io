@@ -1,7 +1,7 @@
 ---
 title: A Robust Optimization Approach for Dynamic Input Allocation
 authors:
-- Alessandro Tenaglia
+- admin
 - Federico Oliva
 - Mario Sassano
 - Sergio Galeani
