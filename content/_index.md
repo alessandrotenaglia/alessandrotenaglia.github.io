@@ -30,20 +30,20 @@ sections:
       items:
         - title: Ph.D. Student
           company: University of Rome Tor Vergata
-          company_url: 'https://web.uniroma2.it/'
+          company_url: https://web.uniroma2.it/
           company_logo: utv
           location: Italy
-          date_start: '2021-11-01'
+          date_start: 2021-11-01
           date_end: ''
-          description: Automation and control engineering
+          description: PhD program in Computer Science, Control and GeoInformation
         - title: Visiting Ph.D. Student at Swiss Plasma Center
           company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
-          company_url: 'https://www.epfl.ch/research/domains/swiss-plasma-center/'
+          company_url: https://www.epfl.ch/research/domains/swiss-plasma-center/
           company_logo: epfl
           location: Switzerland
-          date_start: '2023-05-01'
-          date_end: '2024-04-30'
-          description: Magnetic control system of the TCV tokamak
+          date_start: 2023-05-01
+          date_end: 2024-04-30
+          description: 'Topic: Magnetic control system of the TCV tokamak'
     design:
       columns: '2'
 
