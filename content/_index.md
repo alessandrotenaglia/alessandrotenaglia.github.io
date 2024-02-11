@@ -36,10 +36,10 @@ sections:
           date_start: '2021-11-01'
           date_end: ''
           description: Automation and control engineering
-        - title: Visiting Ph.D. Student
-          company: Swiss Plasma Center (SPC), Ecole Polytechnique Fédérale de Lausanne (EPFL)
+        - title: Visiting Ph.D. Student at Swiss Plasma Center
+          company: Ecole Polytechnique Fédérale de Lausanne (EPFL)
           company_url: 'https://www.epfl.ch/research/domains/swiss-plasma-center/'
-          company_logo: utv
+          company_logo: epfl
           location: Switzerland
           date_start: '2023-05-01'
           date_end: '2024-04-30'
