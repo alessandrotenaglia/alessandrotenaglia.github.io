@@ -6,7 +6,7 @@ event_url: https://torvergata40.uniroma2.it/eventi/droni-a-volo-autonomo/
 
 location: Rome, Italy
 
-summary: Paper presentation
+summary: Seminar
 abstract: I droni sono un ecosistema tecnologico in rapido sviluppo e le cui potenzialità vanno ad estendersi rapidamente con ricadute importanti sulle numerose applicazioni in cui vengono adottati. Saranno presentate le attività e gli sviluppi tecnologici e algoritmici del mondo dei droni a volo autonomo mostrandone i risultati sperimentali.
 
 # Talk start and end times.
