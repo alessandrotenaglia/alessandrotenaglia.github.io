@@ -31,7 +31,7 @@ sections:
         - title: Ph.D. Student
           company: University of Rome Tor Vergata
           company_url: 'https://web.uniroma2.it/'
-          company_logo: torvergata
+          company_logo: utv
           location: Italy
           date_start: '2021-11-01'
           date_end: ''
